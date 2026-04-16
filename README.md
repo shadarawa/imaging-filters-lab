@@ -26,15 +26,6 @@ https://drive.google.com/file/d/18Q7s3Y5NGSeEnZP_Cug7dXXrcpmKN53J/view?usp=shari
 
 ---
 
-## 🚀 Run Locally
-
-```bash
-!pip install -r requirements.txt
-!python app.py --share
-```bash
-
----
-
 ##🖼️ Screenshots
 UI
 <img width="1012" height="474" alt="image" src="https://github.com/user-attachments/assets/87797103-0644-45ce-bd62-fba67e66e9c7" />
@@ -61,5 +52,20 @@ If you run on Colab, use --share to get a public Gradio link.
 The full demo video is attached in Releases to keep the repository lightweight.
 
 
+---
+
+```md
+## 🚀 Run Locally
 
 
+
+```bash
+pip install -r requirements.txt
+python app.py
+
+```md
+## ▶️ Run on Google Colab
+
+```python
+!pip install -r requirements.txt
+!python app.py --share
