@@ -32,10 +32,13 @@ UI
 
 Examples
 
-<img width="1044" height="521" alt="image" src="https://github.com/user-attachments/assets/50361c42-2dac-41ab-8dc7-cc3cbeb343fa" />
-<img width="1035" height="533" alt="image" src="https://github.com/user-attachments/assets/092c3dce-dc11-4806-b9d4-00fcb89ec4e6" />
-<img width="1028" height="474" alt="image" src="https://github.com/user-attachments/assets/81abae39-3da5-4831-b6ea-47ea03a1e058" />
-<img width="1007" height="543" alt="image" src="https://github.com/user-attachments/assets/c18050b5-5db4-4d74-bc38-188dec30df5f" />
+<img width="1832" height="800" alt="image" src="https://github.com/user-attachments/assets/0d4c8cb4-8b96-4f19-b944-d3f171ddc93b" />
+
+<img width="1822" height="781" alt="image" src="https://github.com/user-attachments/assets/5ed1ebdd-f412-475e-af52-839d416a5cd2" />
+<img width="1832" height="797" alt="image" src="https://github.com/user-attachments/assets/0149c143-8bae-4f94-907f-67b03d599f49" />
+
+<img width="1248" height="799" alt="image" src="https://github.com/user-attachments/assets/1870f430-ee18-4fe0-998c-26bd9be5ef4d" />
+
 
 
 
